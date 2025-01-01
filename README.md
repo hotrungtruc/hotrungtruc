@@ -10,4 +10,4 @@
 
 ## 📫 Let's Connect!
 - **Email:** hotrungtruc1706@gmail.com  
-- **LinkedIn:** [LinkedIn]([https://github.com/your-profile](https://www.linkedin.com/in/truc-the-consul/))  
+- **LinkedIn:** [LinkedIn](https://www.linkedin.com/in/truc-the-consul/)  
