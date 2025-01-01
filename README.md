@@ -1,16 +1,13 @@
-## Hi there 👋
+# 👋 Hi, I'm Trung Trực!
 
-<!--
-**hotrungtruc/hotrungtruc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 **Aspiring Data Scientist with a passion for AI and technology.**  
+🔧 Skilled in Python, SQL, and data processing.  
+💡 Currently exploring Machine Learning and building real-world projects.  
 
-Here are some ideas to get you started:
+## 🌟 Featured Projects
+- [Vietnamese GPT Chatbot](https://github.com/your-repo): A chatbot for students using Streamlit and GPT.  
+- [Sentiment Analysis](https://github.com/your-repo): Analyzing customer reviews with Python and NLP.  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📫 Let's Connect!
+- **Email:** trungtruc@example.com  
+- **GitHub:** [Your GitHub](https://github.com/your-profile)  
